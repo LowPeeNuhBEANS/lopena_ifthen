@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lopena_ifthen</string>
+    <item name="buttondecision1" type="id" />
+    <item name="buttondecision2" type="id" />
+    <item name="textlore" type="id" />
+    <item name="textresult" type="id" />
+</resources>
